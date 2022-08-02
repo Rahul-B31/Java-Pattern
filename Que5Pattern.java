@@ -1,3 +1,5 @@
+// Que No5 of Assignment
+
 public class Que5Pattern {
 
     public static void main(String[] args) {
